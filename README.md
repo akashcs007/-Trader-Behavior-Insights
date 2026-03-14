@@ -1,9 +1,9 @@
 # -Trader-Behavior-Insights
 
 ## Overview
-This repository contains an exploratory data analysis project investigating the relationship between trader performance and broader market sentiment[cite: 11, 12]. [cite_start]The objective is to uncover hidden patterns in trader behavior across different market regimes and extract actionable insights to drive smarter trading strategies[cite: 11, 12, 13]. 
+This repository contains an exploratory data analysis project investigating the relationship between trader performance and broader market sentiment[cite: 11, 12]. [cite_start]The objective is to uncover hidden patterns in trader behavior across different market regimes and extract actionable insights to drive smarter trading strategies.
 
-This project was developed as part of the Junior Data Scientist – Trader Behavior Insights assessment for PrimeTrade.ai[cite: 25].
+
 
 ## Key Insights & Findings
 Our analysis reveals a significant disconnect between a trader's win rate and their actual bottom-line profitability across different market regimes:
