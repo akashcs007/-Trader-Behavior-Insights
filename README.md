@@ -1,9 +1,9 @@
 # -Trader-Behavior-Insights
 
 ## Overview
-[cite_start]This repository contains an exploratory data analysis project investigating the relationship between trader performance and broader market sentiment[cite: 11, 12]. [cite_start]The objective is to uncover hidden patterns in trader behavior across different market regimes and extract actionable insights to drive smarter trading strategies[cite: 11, 12, 13]. 
+This repository contains an exploratory data analysis project investigating the relationship between trader performance and broader market sentiment[cite: 11, 12]. [cite_start]The objective is to uncover hidden patterns in trader behavior across different market regimes and extract actionable insights to drive smarter trading strategies[cite: 11, 12, 13]. 
 
-[cite_start]This project was developed as part of the Junior Data Scientist – Trader Behavior Insights assessment for PrimeTrade.ai[cite: 25].
+This project was developed as part of the Junior Data Scientist – Trader Behavior Insights assessment for PrimeTrade.ai[cite: 25].
 
 ## Key Insights & Findings
 Our analysis reveals a significant disconnect between a trader's win rate and their actual bottom-line profitability across different market regimes:
@@ -14,8 +14,8 @@ Our analysis reveals a significant disconnect between a trader's win rate and th
 
 ## Data Sources
 The analysis integrates two primary datasets:
-1. [cite_start]**Bitcoin Market Sentiment Dataset:** Daily classifications of market sentiment (e.g., Fear, Greed, Extreme Greed, Neutral)[cite: 6, 7].
-2. [cite_start]**Historical Trader Data (Hyperliquid):** Granular trade execution data including account details, execution price, side, size, and closed PnL[cite: 8, 9, 10].
+1. **Bitcoin Market Sentiment Dataset:** Daily classifications of market sentiment (e.g., Fear, Greed, Extreme Greed, Neutral)[cite: 6, 7].
+2. **Historical Trader Data (Hyperliquid):** Granular trade execution data including account details, execution price, side, size, and closed PnL[cite: 8, 9, 10].
 
 ## Script Features (`run_analysis.py`)
 The pipeline is designed to be robust and handle various data formats:
