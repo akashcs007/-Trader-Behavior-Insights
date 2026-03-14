@@ -1,7 +1,7 @@
 # -Trader-Behavior-Insights
 
 ## Overview
-This repository contains an exploratory data analysis project investigating the relationship between trader performance and broader market sentiment[cite: 11, 12]. [cite_start]The objective is to uncover hidden patterns in trader behavior across different market regimes and extract actionable insights to drive smarter trading strategies.
+This repository contains an exploratory data analysis project investigating the relationship between trader performance and broader market sentiment.The objective is to uncover hidden patterns in trader behavior across different market regimes and extract actionable insights to drive smarter trading strategies.
 
 
 
